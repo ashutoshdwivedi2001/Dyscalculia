@@ -1,0 +1,55 @@
+.navbar {
+
+    background-color: #051923;
+    height: 50px;
+    margin-top: -18px;
+}
+
+ul {
+
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type: none;
+    overflow: auto;
+}
+
+ul li {
+    display: inline;
+    
+
+        
+}
+
+ul li a{
+    background-color: #456990;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px transparent solid;
+    margin-right: 40px;
+    border-radius: 10px;
+    color: white;
+}
+
+.r-float {
+
+
+    float: right;
+
+}
+
+
+.l-float {
+
+    float: left;
+
+}
+
+#blue-btn {
+    background-color: #F75B00;
+}
+
+
+
+/* About Us */
